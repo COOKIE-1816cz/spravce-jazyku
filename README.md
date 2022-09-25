@@ -1,2 +1,2 @@
-# spravce-jazyku
-Umožňuje načíst hodnotu string v závislosti na jazyku
+# Správce jazyků
+Umožňuje načíst hodnotu string v závislosti na jazyku atd.
