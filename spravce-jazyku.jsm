@@ -6,7 +6,9 @@ export default class {
     	console.log("COOKIE-1816 (C) 2022 is included. This script");
     	console.log("is licensed under MIT license. Source code can");
     	console.log("be found here: \nhttps://github.com/COOKIE-1816cz/spravce-jazyku");
-      const fs_modul = require("fs");
+    	console.log("================================================================");
+    	
+        const fs_modul = require("fs");
     },
     
     
